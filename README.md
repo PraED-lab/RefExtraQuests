@@ -4,11 +4,16 @@
 
 ![version](https://img.shields.io/badge/version-1.7.1-blue) ![SPT](https://img.shields.io/badge/SPT-4.1.x-green) ![license](https://img.shields.io/badge/license-MIT-lightgrey)
 
+![Ref quests](screenshots/quest.png)
+
 ## ✨ What you get
 - **135 quests** for Ref. The first quest is available from level 10, with no Ref prerequisite.
 - **One quest line per map**: Customs, Woods, Shoreline, Reserve, Lighthouse, Streets of Tarkov, Ground Zero (from level 11), Factory, Labs and Labyrinth. The lines unlock after the first quest, so you pick the order.
 - **Unusual objectives**: weapon-type challenges (pistol only, SMG, shotgun, marksman rifle, bolt-action, machine gun, grenades), Rogues, Raiders, night Cultists, and **3-extractions-in-a-row streaks**.
 - **23 "Delivery" quests**: hand weapons over to Ref (roubles + GP rewards, any attachments allowed).
+
+  ![Delivery quest](screenshots/delivery.png)
+
 - **"Legend of Ref"** has extra objectives: headshots, long range, night kills and any boss.
 - **Original chain**: Scav, BEAR, USEC and PMC hunts, extractions.
 - Rewards: XP, roubles, dollars or euros, GP coins and Ref reputation, scaled to the quest level. The hardest quests give a **Lega Medal**, the others an **Arena crate**.
@@ -22,7 +27,7 @@ The mod uses your SPT language automatically. English is the fallback.
 
 ## 📦 Compatibility
 - SPT 4.1.x
-- [acidphantasm-reffriendlyquests](https://forge.sp-tarkov.com) is **not required**, but the two mods work very well together.
+- **acidphantasm-reffriendlyquests** is **not required**, but the two mods work very well together.
 - Arena crates are base-game items. The BoxesAtRef mod is compatible and sells them at Ref.
 
 ## 🔧 Installation
